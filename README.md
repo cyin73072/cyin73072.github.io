@@ -1,4 +1,4 @@
-# "“Embracing each new experience as a golden coin, I journey towards building a mountain of invaluable memories.”
+# “Embracing each new experience as a golden coin, I journey towards building a mountain of invaluable memories.”
 
 #### Technical Skills: Python, R, SQL, Bash, SAS, Java, JavaScript, HTML5
 
