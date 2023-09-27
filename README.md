@@ -31,8 +31,6 @@ By integrating cutting-edge assembly technology, which had previously been utili
 
 The practical implications of this advancement are profound, with potential applications spanning a variety of sectors including, but not limited to, document restoration, data recovery, and intelligence analysis. This development signifies a transformative step in how vital information from damaged documents can be extracted and processed.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Recognizing Letters from Image of Eroded Text
 [View](https://drive.google.com/file/d/15TCMkB6I5bRaQOrqxihyBdGzgUKVSsKu/view?usp=sharing)
 ##### Keywords: Text recognition, convolutional neural network, optical character recognition, CTPN, OpenCV
