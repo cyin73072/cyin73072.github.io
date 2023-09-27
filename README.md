@@ -1,6 +1,6 @@
 # Embracing each new experience as a golden coin, I journey towards building a mountain of invaluable memories.
 
-#### Technical Skills: Python, R, SQL, Bash, SAS, Java, JavaScript, HTML5
+#### Technical Skills: Python, R, SQL, Bash, SAS, Java
 
 ## Education						       		
 - M.S., Data Science	| Fordham University (_May 2023_)	 			        		
